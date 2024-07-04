@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Peter Müller
 
-<!--
-**crycode-de/crycode-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ Most of my projects are public available at <https://github.com/crycode-de>
+- 👨‍💻 My website is <https://crycode.de>
+- 📫 How to reach me <peter@crycode.de>
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=crycode-de&base=142&style=for-the-badge&color=81a1c1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=crycode-de&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience,Issues&theme=nord&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crycode-de&show_icons=true&theme=nord&layout=compact&include_all_commits=true)
+
+![Wakapi Time Stats (30 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=peter&api_domain=waka.cryhost.de&custom_title=Wakapi%20Time%20Stats%20(last%2030%20Days)&theme=nord&layout=compact)
